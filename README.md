@@ -6,4 +6,4 @@ My daily Data Structures &amp; Algorithms coding practice and learning journey
 
 | Date        | Topics Covered       | Link to Solutions/Folders               |
 |-------------|---------------------|-----------------------------------------|
-| 2024-07-05  | Arrays, Pointers    | [Arrays](./Array/) • [Pointers](./Pointers/) |
+| 6-07-2025 | Arrays, Pointers    | [Arrays](./Array/) • [Pointers](./Pointers/) |
